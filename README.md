@@ -46,10 +46,18 @@ $ npm start
 
 Ini Adalah Script Bot WhatsApp Untuk Mengerimkan Sebuah Virtex 
 
-- Sekali lagi script ini hanya untuk mengirimkan sebuah virtex ke dalam gc
-
-- Jika Ada Apa Apa Dengan Anda Kami Tidak Akan Bertanggung Jawab Terimakasih.
-
+◪ PERATURAN!!
+- ❏ Bot Ini Hanya Sekedar Untuk Hiburan
+- ❏ Kalo Semisal Grup Kalian Kena Virtex Kalian Tinggal
+- ❏ Cara Menetralkan Virtex Nya Cukup Dengan Hapus Semua Pesan Grup Nya
+- ❏ Dan Spam Sticker Saja Agar Virtex Itu Terbawa Ke Atas Dan Tidak Membuat Lag Lagi
+- ❏ Gunakan Dengan Bijak!
+- ❏ Apapun Hasilnya Bukan Tanggung Jawab Kami!
+- ❏ Jika Ada Terbukti Melanggar, Saya Akan Langsung Menonaktifkan Fitur Ini.
+- ❏ Jika Kalian Mengirim Virtex Tanpa Membaca Peraturan Ini,
+- ❏ Sama Dengan Kalian Setuju Dengan Peraturan Ini !!
+- ❏ Sekian, terimakasih.
+- ❏ Inspirasi Virtex Bot WA By : https://github.com/Bintang73
 
 ## Keyword
 

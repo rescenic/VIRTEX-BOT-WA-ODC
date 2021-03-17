@@ -3,7 +3,7 @@ Ini Adalah Self Bot Whatsapp Spam Virtex By Onlydevcity
 Cara Install Di Termos
 $ pkg update && pkg upgrade && pkg install git && pkg install nodejs
 $ git clone https://github.com/ItsmeikyXSec4O4/VIRTEX-BOT-WA-ODC
-$ cd VIRTEX BOT WA ODC
+$ cd VIRTEX-BOT-WA-ODC
 $ ls
 $ node index.js
 

@@ -1,0 +1,29 @@
+Ini Adalah Self Bot Whatsapp Spam Virtex By Onlydevcity
+
+Cara Install Di Termos
+$ pkg update && pkg upgrade && pkg install git && pkg install nodejs
+$ git clone https://github.com/ItsmeikyXSec4O4/VIRTEX-BOT-WA-ODC
+$ cd VIRTEX BOT WA ODC
+$ ls
+$ node index.js
+
+┣ ◪ PERATURAN!!
+┃ ❏ Bot Ini Hanya Sekedar Untuk Hiburan
+┃ ❏ Kalo Semisal Grup Kalian Kena Virtex Kalian Tinggal
+┃ ❏ Cara Menetralkan Virtex Nya Cukup Dengan Hapus Semua Pesan Grup Nya
+┃ ❏ Dan Spam Sticker Saja Agar Virtex Itu Terbawa Ke Atas Dan Tidak Membuat Lag Lagi
+┃ ❏ Gunakan Dengan Bijak!
+┃ ❏ Apapun Hasilnya Bukan Tanggung Jawab Kami!
+┃ ❏ Jika Ada Terbukti Melanggar, Saya Akan Langsung Menonaktifkan Fitur Ini.
+┃ ❏ Jika Kalian Mengirim Virtex Tanpa Membaca Peraturan Ini,
+┃ ❏ Sama Dengan Kalian Setuju Dengan Peraturan Ini !!
+┃ ❏ Sekian, terimakasih.
+┃ ❏ Inspirasi Virtex Bot WA By : https://github.com/Bintang73
+
+Note: Setelah Scan QR Code Silahkan Kalian Balik Lagi Ke Whatsapp Yang Tadi Buat Scan QR Code Nya
+Karena Kalo Kalian Chat Nomor Yang Tempat Buat Ngescan Dengan Nomor Lain Itu Bakalan Gabisa
+Jadi Cuma Kalian Aja Yang Bisa Jalanin Fiture Nya
+Lalu Kalian Ketik zcreator, HARAP Prefix Yang Ada Di ./src/settings.json Jangan Di Ubah, Cukup Ubah Nomor Owner Nya Saja
+Lalu Setelah Baca Peraturan Yang Ada Di zcreator Atau Ada Yang Di Atas
+Jika Kalian Setuju Silahkan Ketik zvirtex Untuk Otomatis Mengspam Virtex Berjumlah 54 Spam Virtex
+z Nya Kecil Ya Jangan Z Huruf Gede Kalo Huruf Gede Gabakalan Bisa.

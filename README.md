@@ -30,6 +30,8 @@ $ bash install.sh
 $ node index.js
 
 Tinggal Scan Dah :)
+
+Cara Memanggil Nya Yaitu Dengan Ketik zvirtex
 ```
 
 ## How to run

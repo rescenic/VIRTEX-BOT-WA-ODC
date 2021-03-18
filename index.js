@@ -15,9 +15,7 @@ const fs = require('fs')
 const crypto = require('crypto')
 const util = require('util')
 const { exec, spawn, execSync } = require("child_process")
-const setting = JSON.parse(fs.readFileSync('./src/settings.json'))
-prefix = setting.prefix
-PremiumKey = setting.PremiumKey
+prefix = "z"
 blocked = []
 
 function kyun(seconds){
@@ -49,7 +47,7 @@ async function starts() {
 	})
 	await onlydev.connect({timeoutMs: 30*1000})
         fs.writeFileSync('./self-bot.json', JSON.stringify(onlydev.base64EncodedAuthInfo(), null, '\t'))
-
+	
 	onlydev.on('CB:Blocklist', json => {
             if (blocked.length > 2) return
 	    for (let i of json[1].blocklist) {
@@ -63,7 +61,7 @@ async function starts() {
             odc = odc.messages.all()[0]
 			if (!odc.message) return
 			if (odc.key && odc.key.remoteJid == 'status@broadcast') return
-			if (!odc.key.fromMe) return
+			if (odc.key.fromMe) return
 			global.prefix
 			global.blocked
 			const content = JSON.stringify(odc.message)
@@ -79,7 +77,7 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			const botNumber = onlydev.user.jid
-			const ownerNumber = [`${setting.ownerNumber}@s.whatsapp.net`] // replace this with your number
+			const ownerNumber = [`6281212594112@s.whatsapp.net`] // replace this with your number
 			const isGroup = from.endsWith('@g.us')
 			const totalchat = await onlydev.chats.all()
 			const sender = isGroup ? odc.participant : odc.key.remoteJid
@@ -97,7 +95,6 @@ async function starts() {
 			const reply = (teks) => {
 				onlydev.sendMessage(from, teks, text, {quoted:odc})
 			}
-			const apikey = setting.apiKey // get on https://onlydevcity.herokuapp.com
 			const sendMess = (hehe, teks) => {
 				onlydev.sendMessage(hehe, teks, text)
 			}
@@ -246,7 +243,6 @@ async function starts() {
 ┣ ❏ RR 018
 ┃
 ┗━━━━《 OnlyDev City シ︎ 》━━━━`
-					
 					onlydev.sendMessage(from, creator, text, {quoted: odc})
 					break
                             }

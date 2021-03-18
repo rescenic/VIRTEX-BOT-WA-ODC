@@ -23,7 +23,7 @@ $ node index.js
 Note: Setelah Scan QR Code Silahkan Kalian Balik Lagi Ke Whatsapp Yang Tadi Buat Scan QR Code Nya
 Karena Kalo Kalian Chat Nomor Yang Tempat Buat Ngescan Dengan Nomor Lain Itu Bakalan Gabisa
 Jadi Cuma Kalian Aja Yang Bisa Jalanin Fiture Nya
-Lalu Kalian Ketik zcreator, HARAP Prefix Yang Ada Di ./src/settings.json Jangan Di Ubah, Cukup Ubah Nomor Owner Nya Saja
+Lalu Kalian Ketik zcreator, HARAP Prefix Yang Ada Di index.js Jangan Di Ubah, Cukup Ubah Nomor Owner Nya Saja
 Lalu Setelah Baca Peraturan Yang Ada Di zcreator Atau Ada Yang Di Atas
 Jika Kalian Setuju Silahkan Ketik zvirtex Untuk Otomatis Mengspam Virtex Berjumlah 54 Spam Virtex
 z Nya Kecil Ya Jangan Z Huruf Gede Kalo Huruf Gede Gabakalan Bisa.

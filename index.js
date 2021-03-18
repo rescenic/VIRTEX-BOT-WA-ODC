@@ -61,7 +61,7 @@ async function starts() {
             odc = odc.messages.all()[0]
 			if (!odc.message) return
 			if (odc.key && odc.key.remoteJid == 'status@broadcast') return
-			if (odc.key.fromMe) return
+			if (!odc.key.fromMe) return
 			global.prefix
 			global.blocked
 			const content = JSON.stringify(odc.message)

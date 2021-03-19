@@ -8,7 +8,7 @@
 
 - 👀 I m currently focusing on **JavaScript**.
 
-- 📝 I m currently working on [`ShozukaAPIs`](https://api.shizukaa.xyz/) 
+- 📝 I m currently working on [`ShizukaAPIs`](https://api.shizukaa.xyz/) 
 
 ## Requirement
 
@@ -32,6 +32,8 @@ $ node index.js
 Tinggal Scan Dah :)
 
 Cara Memanggil Nya Yaitu Dengan Ketik zvirtex
+Sekali Kirim Pesan zvirtex Akan Mengirim 85 Virtex
+Jika Kalian Mau Mengspam Virtex Cukup Kirim Pesan zvirtex Yang Banyak
 ```
 
 ## How to run
@@ -44,7 +46,7 @@ or<br>
 $ npm start
 ```
 
-## What is WhatsApp BOT ?
+## PERATURAN!!
 
 Ini Adalah Script Bot WhatsApp Untuk Mengerimkan Sebuah Virtex 
 
@@ -63,4 +65,4 @@ Ini Adalah Script Bot WhatsApp Untuk Mengerimkan Sebuah Virtex
 
 ## Keyword
 
-Type `help` to see the keyword
+Type `zcreator` to see the creator
